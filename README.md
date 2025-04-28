@@ -14,8 +14,9 @@ Expedition 33\Engine\Plugins\Marketplace\XeSS\Binaries\ThirdParty\Win64
 
 Notes:
 
-To unpack the downloaded files this script initially fetches and uses 7zip's 7zr to extract 7za,
-both files are downloaded from the official GitHub repo/
+To unpack the downloaded files this script initially fetches
+and uses 7zip's 7zr to extract 7za,
+both files are downloaded from the official GitHub repo.
 Then it fetches XeSS 2.0.1 from Intel's GitHub.
 
 
