@@ -17,7 +17,7 @@ Notes:
 To unpack the downloaded files this script initially fetches
 and uses 7zip's 7zr to extract 7za,
 both files are downloaded from the official GitHub repo.
-Then it fetches XeSS 2.0.1 from Intel's GitHub.
+Then it fetches XeSS 2.0.1.41 (backing up and replacing the older one shipped with the game) from Intel's GitHub.
 
 
 Regards,
