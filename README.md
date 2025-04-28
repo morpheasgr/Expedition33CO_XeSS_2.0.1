@@ -3,7 +3,7 @@ XeSS 2.0.1 Installer batch script for Expedition 33 Clair Obscur
 
 Usage:
 
-Download the batch file from releases or via cloning/zipping the repo.
+Download the batch file from latest release [here](https://github.com/morpheasgr/Expedition33CO_XeSS_2.0.1/releases/latest/download/xess_upd.bat) or via cloning/zipping the repo.
 
 1. Place xess_upd.bat into the following game subdirectory:
 
