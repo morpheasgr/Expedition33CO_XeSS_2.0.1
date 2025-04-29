@@ -14,10 +14,11 @@ Expedition 33\Engine\Plugins\Marketplace\XeSS\Binaries\ThirdParty\Win64
 
 Notes:
 
-To unpack the downloaded files this script initially fetches
-and uses 7zip's 7zr to extract 7za,
+This tiny script (<2kB) initially fetches and uses 7zip's 7zr & 7za CLIs to unpack archives,
 both files are downloaded from the official GitHub repo.
-Then it fetches XeSS 2.0.1.41 (backing up and replacing the older one shipped with the game) from Intel's GitHub.
+Then it fetches XeSS 2.0.1.41 (or whatever future subversion is in the 2.0.1 release) from Intel's GitHub, backing up and replacing the older one shipped with the game.
+
+In other words, it is a miniature XeSS swapper which would actually work if you put it in any directory with XeSS DLLs...
 
 
 Regards,
