@@ -1,5 +1,6 @@
 @echo off
-echo this script will fetch the XeSS 2.0.1 SDK from Github and fetch amd use 7zx and 7za 2409 CLI to extract the necessary files
+echo This script will fetch the XeSS 2.0.1 SDK from Github and fetch and utilize 7zx and 7za 2409 CLI to extract the necessary files
+echo All files are provided from their official Github repositories and this batch file is open-source too, so this is the cleaanest way to do this task.
 IF NOT exist libxess.dll GOTO end
 IF NOT exist libxell.dll.bak (
 ren libxell.dll libxell.dll.bak
